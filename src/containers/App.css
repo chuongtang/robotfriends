@@ -1,0 +1,12 @@
+
+    @font-face {
+        font-family: 'Scott Room Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Scott Room Regular'), url('./ScottRoom-jEd5l.woff') format('woff');
+        }
+    h1{
+        font-family: 'Scott Room Regular';
+        font-weight: bold;
+        color: rgb(139, 48, 14);
+    }
